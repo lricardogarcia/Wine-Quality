@@ -1,5 +1,3 @@
-
-```markdown
 # Wine Quality Prediction using Random Forest Classifier
 
 This project predicts the quality of red wine based on its physicochemical properties using a machine learning model. The dataset used for this project is from the [UCI Machine Learning Repository](https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009), specifically the Portuguese "Vinho Verde" red wine dataset. A Random Forest Classifier is trained to classify wines as either of good quality (quality >= 7) or bad quality (quality < 7).
